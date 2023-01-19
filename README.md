@@ -22,7 +22,7 @@ Project create at the 4th edition of [Next Level Week](https://lp.rocketseat.com
 [Net promoter score (NPS)](https://en.wikipedia.org/wiki/Net_promoter_score) is a widely used market research metric that is based on a single survey question asking respondents to rate the likelihood that they would recommend a company, product, or a service to a friend or colleague.
 
 <p align="center">
-<img src="./.github/ethereal-email-message-exemple.png" alt="Next Level Week NPS"/>
+<img src="./.github/ethereal-email-message-exemple.jpg" alt="Next Level Week NPS"/>
 </p>
 
 ## Stack and tools
